@@ -6,7 +6,7 @@
 
 <div>
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=reinaldosilva43&show_icons=true&theme=gruvbox">
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gruvbox">
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldosilva43&layout=compact&theme=gruvbox">
 </div>
 
 ##
